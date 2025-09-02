@@ -88,22 +88,21 @@
 
 Endpoints → EDR Agents → Endpoint Security Console
 
-```
+
 - **Requirements**: Endpoint agents only
 - **Complexity**: Low to medium
 - **Implementation Time**: Days to weeks
 - **Maintenance**: Endpoint-focused
 
 ### XDR Deployment Model
-```
+
 Multiple Sources → Connectors/API → Vision One Platform
-```
+
 - **Requirements**: Multiple integrations and connectors
 - **Complexity**: Medium to high
 - **Implementation Time**: Weeks to months
 - **Maintenance**: Platform-focused
 
----
 
 ## Use Case Analysis
 
@@ -121,7 +120,6 @@ Multiple Sources → Connectors/API → Vision One Platform
 - Existing Trend Micro product ecosystem
 - Need for automated cross-layer response
 
----
 
 ## Pricing Considerations
 
@@ -137,7 +135,7 @@ Multiple Sources → Connectors/API → Vision One Platform
 - Number of integrated products
 - Advanced feature requirements
 
----
+
 
 ## Migration Path
 
