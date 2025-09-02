@@ -159,7 +159,8 @@ Multiple Sources → Connectors/API → Vision One Platform
 ---
 *Document Generated: ${new Date().toLocaleDateString()}*
 *For the most current information, always refer to official Trend Micro documentation and consult with Trend Micro representatives.*
-```
+
+
 This markdown document provides a comprehensive comparison between Trend Micro's EDR and XDR solutions, formatted for easy reading and download. The document includes:
 
 1. Executive summary of both solutions
